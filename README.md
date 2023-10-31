@@ -1,7 +1,4 @@
 
-
-**I love working with**
-
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -12,7 +9,7 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyAdrian&layout=compact)
+![Top Langs](https://github-readme-stats-andreyadrian.vercel.app//api/top-langs/?username=AndreyAdrian&layout=compact)
 
 
 <!-- Badges List: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
