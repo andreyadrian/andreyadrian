@@ -8,6 +8,7 @@ BADGE SECTION
 
 <!-- Badges Search: https://github.com/Aveek-Saha/GitHub-Profile-Badges -->
 ![Top Langs](https://github-readme-stats-andreyadrian.vercel.app//api/top-langs/?username=AndreyAdrian&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=andreyadrian&theme=dark&hide_border=false)
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/torvalds/linux)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)](https://github.com/NixOS/nixpkgs)
